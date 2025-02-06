@@ -1,0 +1,13 @@
+- what is dom?
+=> Document object model.(frontend javascript)
+
+- 4 pillars of DOM
+=> Selection of elements
+=> Changing HTML
+=> changing css
+=> Event Listener - 'event' something that is happening
+                    'listener' that listens, observes
+
+
+
+                    settimeout == delay
